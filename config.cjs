@@ -3,14 +3,14 @@ require("dotenv").config();
 
 const config = {
   // 🧠 Session & Identity
-  SESSION_ID: process.env.SESSION_ID || "Popkidmd$MLJjtNih",
+  SESSION_ID: process.env.SESSION_ID || "POPKID;;;mlJFXKAS#qUvTuIz97VRiNTsdrFM0WtDt5KVs9_3EO06PLKREXhI",
   PREFIX: process.env.PREFIX || '.',
   BOT_NAME: process.env.BOT_NAME || "POPKID GLE",
   BOT: process.env.BOT || "hello 👋",
-  STATUS_READ_MSG: "👋 Hello! I saw your status.",
+  STATUS_READ_MSG: "দেখে ফেলেছি😜",
   NEW_CMD: process.env.NEW_CMD || "ᴀᴅᴅᴠᴀʀ\n│ sᴜᴅᴏ\n| popkid",
   CAPTION: process.env.CAPTION || "ᴘᴏᴡᴇʀᴇᴅ by popkid",
-  AUTO_STATUS_REPLY: false,
+  AUTO_STATUS_REPLY: false ,
   AUTO_STATUS_REPLY_MSG: "👋 Hello! I saw your status.",
   // 🤖 GPT/AI API KEYS
   GPT_API_KEY: process.env.GPT_API_KEY || "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", // Groq key
